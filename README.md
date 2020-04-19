@@ -1,0 +1,2 @@
+# CovidCounter
+Simple test app.
